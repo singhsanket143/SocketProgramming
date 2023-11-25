@@ -3,7 +3,7 @@ import socket
 print("Starting a new server..")
 
 HOST = "localhost"
-PORT = 8082
+PORT = 8083
 
 # 1. created a client object
 client_socket = socket.socket()
